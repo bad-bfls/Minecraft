@@ -1,4 +1,4 @@
-# Minecraft
+# Minecraft 1.7.10
 CN： 
 社团的 Minecraft 服务器：
 mc.dorf.top
